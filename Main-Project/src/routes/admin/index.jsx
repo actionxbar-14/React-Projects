@@ -12,6 +12,7 @@ const adminRoute = {
       path: "/admin",
       element: <AdminLanding />,
     },
+ 
   ],
 };
 
